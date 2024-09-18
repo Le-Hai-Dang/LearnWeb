@@ -1,0 +1,14 @@
+.heading{
+    color: blue;
+    font-size: 15px;
+    /* position: absolute; */
+   
+    text-align: center;
+}
+.img_avt{
+    border-radius: 17px;
+}
+.img_avt:hover{
+    zoom: 1.5;
+}
+
